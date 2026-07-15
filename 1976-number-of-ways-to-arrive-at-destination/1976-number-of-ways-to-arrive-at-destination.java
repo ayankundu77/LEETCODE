@@ -1,9 +1,9 @@
 class Pair{
-    long first;
-    int second;
-    Pair(long first, int second){
-        this.first = first;
-        this.second = second;
+    long node;
+    int weight;
+    Pair(long node, int weight){
+        this.node = node;
+        this.weight = weight;
     }
 }
 class Solution {
@@ -20,8 +20,7 @@ class Solution {
             adj.get(u).add(new Pair(v, wt));
             adj.get(v).add(new Pair(u, wt));
         }
-        PriorityQueue<Pair> pq =
-    new PriorityQueue<>((x, y) -> Long.compare(x.first, y.first));
+        PriorityQueue<Pair> pq = new PriorityQueue<>((x, y) -> Long.compare(x.node, y.node));
         long[] dist = new long[n];
         int[] ways = new int[n];
         Arrays.fill(dist, Long.MAX_VALUE);
@@ -33,14 +32,14 @@ class Solution {
         pq.add(new Pair(0,0));
         int mod = (int)(1e9+7);
         while(pq.size()!=0){
-            long dis = pq.peek().first;
-            int node = pq.peek().second;
+            long dis = pq.peek().node;
+            int node = pq.peek().weight;
             pq.remove();
             if (dis > dist[node]) continue;
 
             for(Pair it:adj.get(node)){
-                int adjNode = (int)it.first;
-                int adjedw = it.second;
+                int adjNode = (int)it.node;
+                int adjedw = it.weight;
                 if(dis+adjedw<dist[adjNode]){
                     dist[adjNode] = dis+adjedw;
                     pq.add(new Pair(dist[adjNode],adjNode));
