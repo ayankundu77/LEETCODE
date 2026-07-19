@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0061-rotate-list](https://github.com/ayankundu77/LEETCODE/tree/master/0061-rotate-list) |
 | [0148-sort-list](https://github.com/ayankundu77/LEETCODE/tree/master/0148-sort-list) |
+| [0151-reverse-words-in-a-string](https://github.com/ayankundu77/LEETCODE/tree/master/0151-reverse-words-in-a-string) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -132,6 +133,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0151-reverse-words-in-a-string](https://github.com/ayankundu77/LEETCODE/tree/master/0151-reverse-words-in-a-string) |
 | [0721-accounts-merge](https://github.com/ayankundu77/LEETCODE/tree/master/0721-accounts-merge) |
 | [1021-remove-outermost-parentheses](https://github.com/ayankundu77/LEETCODE/tree/master/1021-remove-outermost-parentheses) |
 ## Stack
