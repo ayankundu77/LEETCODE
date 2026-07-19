@@ -127,4 +127,9 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0721-accounts-merge](https://github.com/ayankundu77/LEETCODE/tree/master/0721-accounts-merge) |
+| [1021-remove-outermost-parentheses](https://github.com/ayankundu77/LEETCODE/tree/master/1021-remove-outermost-parentheses) |
+## Stack
+|  |
+| ------- |
+| [1021-remove-outermost-parentheses](https://github.com/ayankundu77/LEETCODE/tree/master/1021-remove-outermost-parentheses) |
 <!---LeetCode Topics End-->
