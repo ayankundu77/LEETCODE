@@ -149,6 +149,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0721-accounts-merge](https://github.com/ayankundu77/LEETCODE/tree/master/0721-accounts-merge) |
 | [0796-rotate-string](https://github.com/ayankundu77/LEETCODE/tree/master/0796-rotate-string) |
 | [1021-remove-outermost-parentheses](https://github.com/ayankundu77/LEETCODE/tree/master/1021-remove-outermost-parentheses) |
+| [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/ayankundu77/LEETCODE/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [1903-largest-odd-number-in-string](https://github.com/ayankundu77/LEETCODE/tree/master/1903-largest-odd-number-in-string) |
 ## Stack
 |  |
@@ -156,6 +157,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0739-daily-temperatures](https://github.com/ayankundu77/LEETCODE/tree/master/0739-daily-temperatures) |
 | [0946-validate-stack-sequences](https://github.com/ayankundu77/LEETCODE/tree/master/0946-validate-stack-sequences) |
 | [1021-remove-outermost-parentheses](https://github.com/ayankundu77/LEETCODE/tree/master/1021-remove-outermost-parentheses) |
+| [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/ayankundu77/LEETCODE/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 ## Monotonic Stack
 |  |
 | ------- |
