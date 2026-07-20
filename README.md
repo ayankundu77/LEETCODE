@@ -49,6 +49,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0013-roman-to-integer](https://github.com/ayankundu77/LEETCODE/tree/master/0013-roman-to-integer) |
 | [0138-copy-list-with-random-pointer](https://github.com/ayankundu77/LEETCODE/tree/master/0138-copy-list-with-random-pointer) |
 | [0205-isomorphic-strings](https://github.com/ayankundu77/LEETCODE/tree/master/0205-isomorphic-strings) |
 | [0242-valid-anagram](https://github.com/ayankundu77/LEETCODE/tree/master/0242-valid-anagram) |
@@ -132,6 +133,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0013-roman-to-integer](https://github.com/ayankundu77/LEETCODE/tree/master/0013-roman-to-integer) |
 | [1903-largest-odd-number-in-string](https://github.com/ayankundu77/LEETCODE/tree/master/1903-largest-odd-number-in-string) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/ayankundu77/LEETCODE/tree/master/3658-gcd-of-odd-and-even-sums) |
 ## Number Theory
@@ -141,6 +143,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0013-roman-to-integer](https://github.com/ayankundu77/LEETCODE/tree/master/0013-roman-to-integer) |
 | [0014-longest-common-prefix](https://github.com/ayankundu77/LEETCODE/tree/master/0014-longest-common-prefix) |
 | [0151-reverse-words-in-a-string](https://github.com/ayankundu77/LEETCODE/tree/master/0151-reverse-words-in-a-string) |
 | [0205-isomorphic-strings](https://github.com/ayankundu77/LEETCODE/tree/master/0205-isomorphic-strings) |
