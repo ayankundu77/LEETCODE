@@ -42,12 +42,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0148-sort-list](https://github.com/ayankundu77/LEETCODE/tree/master/0148-sort-list) |
+| [0242-valid-anagram](https://github.com/ayankundu77/LEETCODE/tree/master/0242-valid-anagram) |
 | [0721-accounts-merge](https://github.com/ayankundu77/LEETCODE/tree/master/0721-accounts-merge) |
 ## Hash Table
 |  |
 | ------- |
 | [0138-copy-list-with-random-pointer](https://github.com/ayankundu77/LEETCODE/tree/master/0138-copy-list-with-random-pointer) |
 | [0205-isomorphic-strings](https://github.com/ayankundu77/LEETCODE/tree/master/0205-isomorphic-strings) |
+| [0242-valid-anagram](https://github.com/ayankundu77/LEETCODE/tree/master/0242-valid-anagram) |
 | [0721-accounts-merge](https://github.com/ayankundu77/LEETCODE/tree/master/0721-accounts-merge) |
 | [0947-most-stones-removed-with-same-row-or-column](https://github.com/ayankundu77/LEETCODE/tree/master/0947-most-stones-removed-with-same-row-or-column) |
 ## Array
@@ -137,6 +139,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0151-reverse-words-in-a-string](https://github.com/ayankundu77/LEETCODE/tree/master/0151-reverse-words-in-a-string) |
 | [0205-isomorphic-strings](https://github.com/ayankundu77/LEETCODE/tree/master/0205-isomorphic-strings) |
+| [0242-valid-anagram](https://github.com/ayankundu77/LEETCODE/tree/master/0242-valid-anagram) |
 | [0721-accounts-merge](https://github.com/ayankundu77/LEETCODE/tree/master/0721-accounts-merge) |
 | [0796-rotate-string](https://github.com/ayankundu77/LEETCODE/tree/master/0796-rotate-string) |
 | [1021-remove-outermost-parentheses](https://github.com/ayankundu77/LEETCODE/tree/master/1021-remove-outermost-parentheses) |
