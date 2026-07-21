@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/ayankundu77/LEETCODE/tree/master/0005-longest-palindromic-substring) |
 | [0061-rotate-list](https://github.com/ayankundu77/LEETCODE/tree/master/0061-rotate-list) |
 | [0148-sort-list](https://github.com/ayankundu77/LEETCODE/tree/master/0148-sort-list) |
 | [0151-reverse-words-in-a-string](https://github.com/ayankundu77/LEETCODE/tree/master/0151-reverse-words-in-a-string) |
@@ -108,6 +109,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/ayankundu77/LEETCODE/tree/master/0005-longest-palindromic-substring) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/ayankundu77/LEETCODE/tree/master/0787-cheapest-flights-within-k-stops) |
 | [1334-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance](https://github.com/ayankundu77/LEETCODE/tree/master/1334-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance) |
 | [1976-number-of-ways-to-arrive-at-destination](https://github.com/ayankundu77/LEETCODE/tree/master/1976-number-of-ways-to-arrive-at-destination) |
@@ -144,6 +146,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/ayankundu77/LEETCODE/tree/master/0005-longest-palindromic-substring) |
 | [0013-roman-to-integer](https://github.com/ayankundu77/LEETCODE/tree/master/0013-roman-to-integer) |
 | [0014-longest-common-prefix](https://github.com/ayankundu77/LEETCODE/tree/master/0014-longest-common-prefix) |
 | [0151-reverse-words-in-a-string](https://github.com/ayankundu77/LEETCODE/tree/master/0151-reverse-words-in-a-string) |
