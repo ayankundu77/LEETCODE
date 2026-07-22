@@ -59,6 +59,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0721-accounts-merge](https://github.com/ayankundu77/LEETCODE/tree/master/0721-accounts-merge) |
 | [0947-most-stones-removed-with-same-row-or-column](https://github.com/ayankundu77/LEETCODE/tree/master/0947-most-stones-removed-with-same-row-or-column) |
 | [1781-sum-of-beauty-of-all-substrings](https://github.com/ayankundu77/LEETCODE/tree/master/1781-sum-of-beauty-of-all-substrings) |
+| [2947-count-beautiful-substrings-i](https://github.com/ayankundu77/LEETCODE/tree/master/2947-count-beautiful-substrings-i) |
 ## Array
 |  |
 | ------- |
@@ -142,10 +143,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0013-roman-to-integer](https://github.com/ayankundu77/LEETCODE/tree/master/0013-roman-to-integer) |
 | [0066-plus-one](https://github.com/ayankundu77/LEETCODE/tree/master/0066-plus-one) |
 | [1903-largest-odd-number-in-string](https://github.com/ayankundu77/LEETCODE/tree/master/1903-largest-odd-number-in-string) |
+| [2947-count-beautiful-substrings-i](https://github.com/ayankundu77/LEETCODE/tree/master/2947-count-beautiful-substrings-i) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/ayankundu77/LEETCODE/tree/master/3658-gcd-of-odd-and-even-sums) |
 ## Number Theory
 |  |
 | ------- |
+| [2947-count-beautiful-substrings-i](https://github.com/ayankundu77/LEETCODE/tree/master/2947-count-beautiful-substrings-i) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/ayankundu77/LEETCODE/tree/master/3658-gcd-of-odd-and-even-sums) |
 ## String
 |  |
@@ -166,6 +169,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/ayankundu77/LEETCODE/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [1781-sum-of-beauty-of-all-substrings](https://github.com/ayankundu77/LEETCODE/tree/master/1781-sum-of-beauty-of-all-substrings) |
 | [1903-largest-odd-number-in-string](https://github.com/ayankundu77/LEETCODE/tree/master/1903-largest-odd-number-in-string) |
+| [2947-count-beautiful-substrings-i](https://github.com/ayankundu77/LEETCODE/tree/master/2947-count-beautiful-substrings-i) |
 ## Stack
 |  |
 | ------- |
@@ -220,4 +224,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/ayankundu77/LEETCODE/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
+## Enumeration
+|  |
+| ------- |
+| [2947-count-beautiful-substrings-i](https://github.com/ayankundu77/LEETCODE/tree/master/2947-count-beautiful-substrings-i) |
+## Prefix Sum
+|  |
+| ------- |
+| [2947-count-beautiful-substrings-i](https://github.com/ayankundu77/LEETCODE/tree/master/2947-count-beautiful-substrings-i) |
 <!---LeetCode Topics End-->
