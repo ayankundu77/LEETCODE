@@ -26,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/ayankundu77/LEETCODE/tree/master/0023-merge-k-sorted-lists) |
+| [0053-maximum-subarray](https://github.com/ayankundu77/LEETCODE/tree/master/0053-maximum-subarray) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/ayankundu77/LEETCODE/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0148-sort-list](https://github.com/ayankundu77/LEETCODE/tree/master/0148-sort-list) |
 ## Heap (Priority Queue)
@@ -64,6 +65,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/ayankundu77/LEETCODE/tree/master/0014-longest-common-prefix) |
+| [0053-maximum-subarray](https://github.com/ayankundu77/LEETCODE/tree/master/0053-maximum-subarray) |
 | [0066-plus-one](https://github.com/ayankundu77/LEETCODE/tree/master/0066-plus-one) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/ayankundu77/LEETCODE/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0721-accounts-merge](https://github.com/ayankundu77/LEETCODE/tree/master/0721-accounts-merge) |
@@ -114,6 +116,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/ayankundu77/LEETCODE/tree/master/0005-longest-palindromic-substring) |
+| [0053-maximum-subarray](https://github.com/ayankundu77/LEETCODE/tree/master/0053-maximum-subarray) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/ayankundu77/LEETCODE/tree/master/0787-cheapest-flights-within-k-stops) |
 | [1334-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance](https://github.com/ayankundu77/LEETCODE/tree/master/1334-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance) |
 | [1976-number-of-ways-to-arrive-at-destination](https://github.com/ayankundu77/LEETCODE/tree/master/1976-number-of-ways-to-arrive-at-destination) |
