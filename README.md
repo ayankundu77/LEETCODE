@@ -47,6 +47,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0148-sort-list](https://github.com/ayankundu77/LEETCODE/tree/master/0148-sort-list) |
+| [0229-majority-element-ii](https://github.com/ayankundu77/LEETCODE/tree/master/0229-majority-element-ii) |
 | [0242-valid-anagram](https://github.com/ayankundu77/LEETCODE/tree/master/0242-valid-anagram) |
 | [0451-sort-characters-by-frequency](https://github.com/ayankundu77/LEETCODE/tree/master/0451-sort-characters-by-frequency) |
 | [0472-concatenated-words](https://github.com/ayankundu77/LEETCODE/tree/master/0472-concatenated-words) |
@@ -57,6 +58,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0013-roman-to-integer](https://github.com/ayankundu77/LEETCODE/tree/master/0013-roman-to-integer) |
 | [0138-copy-list-with-random-pointer](https://github.com/ayankundu77/LEETCODE/tree/master/0138-copy-list-with-random-pointer) |
 | [0205-isomorphic-strings](https://github.com/ayankundu77/LEETCODE/tree/master/0205-isomorphic-strings) |
+| [0229-majority-element-ii](https://github.com/ayankundu77/LEETCODE/tree/master/0229-majority-element-ii) |
 | [0242-valid-anagram](https://github.com/ayankundu77/LEETCODE/tree/master/0242-valid-anagram) |
 | [0383-ransom-note](https://github.com/ayankundu77/LEETCODE/tree/master/0383-ransom-note) |
 | [0451-sort-characters-by-frequency](https://github.com/ayankundu77/LEETCODE/tree/master/0451-sort-characters-by-frequency) |
@@ -73,6 +75,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0053-maximum-subarray](https://github.com/ayankundu77/LEETCODE/tree/master/0053-maximum-subarray) |
 | [0066-plus-one](https://github.com/ayankundu77/LEETCODE/tree/master/0066-plus-one) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/ayankundu77/LEETCODE/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
+| [0229-majority-element-ii](https://github.com/ayankundu77/LEETCODE/tree/master/0229-majority-element-ii) |
 | [0472-concatenated-words](https://github.com/ayankundu77/LEETCODE/tree/master/0472-concatenated-words) |
 | [0525-contiguous-array](https://github.com/ayankundu77/LEETCODE/tree/master/0525-contiguous-array) |
 | [0560-subarray-sum-equals-k](https://github.com/ayankundu77/LEETCODE/tree/master/0560-subarray-sum-equals-k) |
@@ -232,6 +235,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Counting
 |  |
 | ------- |
+| [0229-majority-element-ii](https://github.com/ayankundu77/LEETCODE/tree/master/0229-majority-element-ii) |
 | [0383-ransom-note](https://github.com/ayankundu77/LEETCODE/tree/master/0383-ransom-note) |
 | [0451-sort-characters-by-frequency](https://github.com/ayankundu77/LEETCODE/tree/master/0451-sort-characters-by-frequency) |
 | [1781-sum-of-beauty-of-all-substrings](https://github.com/ayankundu77/LEETCODE/tree/master/1781-sum-of-beauty-of-all-substrings) |
