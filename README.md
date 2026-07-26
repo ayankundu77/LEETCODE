@@ -57,6 +57,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0013-roman-to-integer](https://github.com/ayankundu77/LEETCODE/tree/master/0013-roman-to-integer) |
+| [0128-longest-consecutive-sequence](https://github.com/ayankundu77/LEETCODE/tree/master/0128-longest-consecutive-sequence) |
 | [0138-copy-list-with-random-pointer](https://github.com/ayankundu77/LEETCODE/tree/master/0138-copy-list-with-random-pointer) |
 | [0205-isomorphic-strings](https://github.com/ayankundu77/LEETCODE/tree/master/0205-isomorphic-strings) |
 | [0229-majority-element-ii](https://github.com/ayankundu77/LEETCODE/tree/master/0229-majority-element-ii) |
@@ -79,6 +80,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/ayankundu77/LEETCODE/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0118-pascals-triangle](https://github.com/ayankundu77/LEETCODE/tree/master/0118-pascals-triangle) |
 | [0119-pascals-triangle-ii](https://github.com/ayankundu77/LEETCODE/tree/master/0119-pascals-triangle-ii) |
+| [0128-longest-consecutive-sequence](https://github.com/ayankundu77/LEETCODE/tree/master/0128-longest-consecutive-sequence) |
 | [0229-majority-element-ii](https://github.com/ayankundu77/LEETCODE/tree/master/0229-majority-element-ii) |
 | [0472-concatenated-words](https://github.com/ayankundu77/LEETCODE/tree/master/0472-concatenated-words) |
 | [0525-contiguous-array](https://github.com/ayankundu77/LEETCODE/tree/master/0525-contiguous-array) |
@@ -125,6 +127,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Union-Find
 |  |
 | ------- |
+| [0128-longest-consecutive-sequence](https://github.com/ayankundu77/LEETCODE/tree/master/0128-longest-consecutive-sequence) |
 | [0721-accounts-merge](https://github.com/ayankundu77/LEETCODE/tree/master/0721-accounts-merge) |
 | [0827-making-a-large-island](https://github.com/ayankundu77/LEETCODE/tree/master/0827-making-a-large-island) |
 | [0947-most-stones-removed-with-same-row-or-column](https://github.com/ayankundu77/LEETCODE/tree/master/0947-most-stones-removed-with-same-row-or-column) |
