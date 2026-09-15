@@ -158,6 +158,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/ayankundu77/LEETCODE/tree/master/0005-longest-palindromic-substring) |
 | [0053-maximum-subarray](https://github.com/ayankundu77/LEETCODE/tree/master/0053-maximum-subarray) |
+| [0062-unique-paths](https://github.com/ayankundu77/LEETCODE/tree/master/0062-unique-paths) |
 | [0070-climbing-stairs](https://github.com/ayankundu77/LEETCODE/tree/master/0070-climbing-stairs) |
 | [0118-pascals-triangle](https://github.com/ayankundu77/LEETCODE/tree/master/0118-pascals-triangle) |
 | [0119-pascals-triangle-ii](https://github.com/ayankundu77/LEETCODE/tree/master/0119-pascals-triangle-ii) |
@@ -192,6 +193,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0013-roman-to-integer](https://github.com/ayankundu77/LEETCODE/tree/master/0013-roman-to-integer) |
+| [0062-unique-paths](https://github.com/ayankundu77/LEETCODE/tree/master/0062-unique-paths) |
 | [0066-plus-one](https://github.com/ayankundu77/LEETCODE/tree/master/0066-plus-one) |
 | [0070-climbing-stairs](https://github.com/ayankundu77/LEETCODE/tree/master/0070-climbing-stairs) |
 | [0628-maximum-product-of-three-numbers](https://github.com/ayankundu77/LEETCODE/tree/master/0628-maximum-product-of-three-numbers) |
@@ -326,4 +328,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0836-rectangle-overlap](https://github.com/ayankundu77/LEETCODE/tree/master/0836-rectangle-overlap) |
+## Combinatorics
+|  |
+| ------- |
+| [0062-unique-paths](https://github.com/ayankundu77/LEETCODE/tree/master/0062-unique-paths) |
 <!---LeetCode Topics End-->
