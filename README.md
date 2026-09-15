@@ -89,6 +89,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0031-next-permutation](https://github.com/ayankundu77/LEETCODE/tree/master/0031-next-permutation) |
 | [0053-maximum-subarray](https://github.com/ayankundu77/LEETCODE/tree/master/0053-maximum-subarray) |
 | [0063-unique-paths-ii](https://github.com/ayankundu77/LEETCODE/tree/master/0063-unique-paths-ii) |
+| [0064-minimum-path-sum](https://github.com/ayankundu77/LEETCODE/tree/master/0064-minimum-path-sum) |
 | [0066-plus-one](https://github.com/ayankundu77/LEETCODE/tree/master/0066-plus-one) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/ayankundu77/LEETCODE/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0118-pascals-triangle](https://github.com/ayankundu77/LEETCODE/tree/master/0118-pascals-triangle) |
@@ -126,6 +127,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0063-unique-paths-ii](https://github.com/ayankundu77/LEETCODE/tree/master/0063-unique-paths-ii) |
+| [0064-minimum-path-sum](https://github.com/ayankundu77/LEETCODE/tree/master/0064-minimum-path-sum) |
 | [0827-making-a-large-island](https://github.com/ayankundu77/LEETCODE/tree/master/0827-making-a-large-island) |
 | [0835-image-overlap](https://github.com/ayankundu77/LEETCODE/tree/master/0835-image-overlap) |
 | [1091-shortest-path-in-binary-matrix](https://github.com/ayankundu77/LEETCODE/tree/master/1091-shortest-path-in-binary-matrix) |
@@ -163,6 +165,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0053-maximum-subarray](https://github.com/ayankundu77/LEETCODE/tree/master/0053-maximum-subarray) |
 | [0062-unique-paths](https://github.com/ayankundu77/LEETCODE/tree/master/0062-unique-paths) |
 | [0063-unique-paths-ii](https://github.com/ayankundu77/LEETCODE/tree/master/0063-unique-paths-ii) |
+| [0064-minimum-path-sum](https://github.com/ayankundu77/LEETCODE/tree/master/0064-minimum-path-sum) |
 | [0070-climbing-stairs](https://github.com/ayankundu77/LEETCODE/tree/master/0070-climbing-stairs) |
 | [0118-pascals-triangle](https://github.com/ayankundu77/LEETCODE/tree/master/0118-pascals-triangle) |
 | [0119-pascals-triangle-ii](https://github.com/ayankundu77/LEETCODE/tree/master/0119-pascals-triangle-ii) |
