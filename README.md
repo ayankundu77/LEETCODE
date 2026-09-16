@@ -94,6 +94,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/ayankundu77/LEETCODE/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0118-pascals-triangle](https://github.com/ayankundu77/LEETCODE/tree/master/0118-pascals-triangle) |
 | [0119-pascals-triangle-ii](https://github.com/ayankundu77/LEETCODE/tree/master/0119-pascals-triangle-ii) |
+| [0120-triangle](https://github.com/ayankundu77/LEETCODE/tree/master/0120-triangle) |
 | [0128-longest-consecutive-sequence](https://github.com/ayankundu77/LEETCODE/tree/master/0128-longest-consecutive-sequence) |
 | [0198-house-robber](https://github.com/ayankundu77/LEETCODE/tree/master/0198-house-robber) |
 | [0213-house-robber-ii](https://github.com/ayankundu77/LEETCODE/tree/master/0213-house-robber-ii) |
@@ -169,6 +170,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0070-climbing-stairs](https://github.com/ayankundu77/LEETCODE/tree/master/0070-climbing-stairs) |
 | [0118-pascals-triangle](https://github.com/ayankundu77/LEETCODE/tree/master/0118-pascals-triangle) |
 | [0119-pascals-triangle-ii](https://github.com/ayankundu77/LEETCODE/tree/master/0119-pascals-triangle-ii) |
+| [0120-triangle](https://github.com/ayankundu77/LEETCODE/tree/master/0120-triangle) |
 | [0198-house-robber](https://github.com/ayankundu77/LEETCODE/tree/master/0198-house-robber) |
 | [0213-house-robber-ii](https://github.com/ayankundu77/LEETCODE/tree/master/0213-house-robber-ii) |
 | [0472-concatenated-words](https://github.com/ayankundu77/LEETCODE/tree/master/0472-concatenated-words) |
