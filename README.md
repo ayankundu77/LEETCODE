@@ -108,6 +108,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0739-daily-temperatures](https://github.com/ayankundu77/LEETCODE/tree/master/0739-daily-temperatures) |
 | [0827-making-a-large-island](https://github.com/ayankundu77/LEETCODE/tree/master/0827-making-a-large-island) |
 | [0835-image-overlap](https://github.com/ayankundu77/LEETCODE/tree/master/0835-image-overlap) |
+| [0931-minimum-falling-path-sum](https://github.com/ayankundu77/LEETCODE/tree/master/0931-minimum-falling-path-sum) |
 | [0946-validate-stack-sequences](https://github.com/ayankundu77/LEETCODE/tree/master/0946-validate-stack-sequences) |
 | [1091-shortest-path-in-binary-matrix](https://github.com/ayankundu77/LEETCODE/tree/master/1091-shortest-path-in-binary-matrix) |
 | [1299-replace-elements-with-greatest-element-on-right-side](https://github.com/ayankundu77/LEETCODE/tree/master/1299-replace-elements-with-greatest-element-on-right-side) |
@@ -131,6 +132,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0064-minimum-path-sum](https://github.com/ayankundu77/LEETCODE/tree/master/0064-minimum-path-sum) |
 | [0827-making-a-large-island](https://github.com/ayankundu77/LEETCODE/tree/master/0827-making-a-large-island) |
 | [0835-image-overlap](https://github.com/ayankundu77/LEETCODE/tree/master/0835-image-overlap) |
+| [0931-minimum-falling-path-sum](https://github.com/ayankundu77/LEETCODE/tree/master/0931-minimum-falling-path-sum) |
 | [1091-shortest-path-in-binary-matrix](https://github.com/ayankundu77/LEETCODE/tree/master/1091-shortest-path-in-binary-matrix) |
 | [1631-path-with-minimum-effort](https://github.com/ayankundu77/LEETCODE/tree/master/1631-path-with-minimum-effort) |
 ## Binary Search
@@ -175,6 +177,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0213-house-robber-ii](https://github.com/ayankundu77/LEETCODE/tree/master/0213-house-robber-ii) |
 | [0472-concatenated-words](https://github.com/ayankundu77/LEETCODE/tree/master/0472-concatenated-words) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/ayankundu77/LEETCODE/tree/master/0787-cheapest-flights-within-k-stops) |
+| [0931-minimum-falling-path-sum](https://github.com/ayankundu77/LEETCODE/tree/master/0931-minimum-falling-path-sum) |
 | [1334-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance](https://github.com/ayankundu77/LEETCODE/tree/master/1334-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance) |
 | [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/ayankundu77/LEETCODE/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
 | [1976-number-of-ways-to-arrive-at-destination](https://github.com/ayankundu77/LEETCODE/tree/master/1976-number-of-ways-to-arrive-at-destination) |
