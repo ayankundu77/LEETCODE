@@ -108,6 +108,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0229-majority-element-ii](https://github.com/ayankundu77/LEETCODE/tree/master/0229-majority-element-ii) |
 | [0349-intersection-of-two-arrays](https://github.com/ayankundu77/LEETCODE/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/ayankundu77/LEETCODE/tree/master/0350-intersection-of-two-arrays-ii) |
+| [0416-partition-equal-subset-sum](https://github.com/ayankundu77/LEETCODE/tree/master/0416-partition-equal-subset-sum) |
 | [0472-concatenated-words](https://github.com/ayankundu77/LEETCODE/tree/master/0472-concatenated-words) |
 | [0493-reverse-pairs](https://github.com/ayankundu77/LEETCODE/tree/master/0493-reverse-pairs) |
 | [0525-contiguous-array](https://github.com/ayankundu77/LEETCODE/tree/master/0525-contiguous-array) |
@@ -190,6 +191,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0120-triangle](https://github.com/ayankundu77/LEETCODE/tree/master/0120-triangle) |
 | [0198-house-robber](https://github.com/ayankundu77/LEETCODE/tree/master/0198-house-robber) |
 | [0213-house-robber-ii](https://github.com/ayankundu77/LEETCODE/tree/master/0213-house-robber-ii) |
+| [0416-partition-equal-subset-sum](https://github.com/ayankundu77/LEETCODE/tree/master/0416-partition-equal-subset-sum) |
 | [0472-concatenated-words](https://github.com/ayankundu77/LEETCODE/tree/master/0472-concatenated-words) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/ayankundu77/LEETCODE/tree/master/0787-cheapest-flights-within-k-stops) |
 | [0931-minimum-falling-path-sum](https://github.com/ayankundu77/LEETCODE/tree/master/0931-minimum-falling-path-sum) |
@@ -372,4 +374,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/ayankundu77/LEETCODE/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
+## Knapsack Problem
+|  |
+| ------- |
+| [0416-partition-equal-subset-sum](https://github.com/ayankundu77/LEETCODE/tree/master/0416-partition-equal-subset-sum) |
+## 0-1 Knapsack
+|  |
+| ------- |
+| [0416-partition-equal-subset-sum](https://github.com/ayankundu77/LEETCODE/tree/master/0416-partition-equal-subset-sum) |
 <!---LeetCode Topics End-->
