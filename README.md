@@ -244,6 +244,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/ayankundu77/LEETCODE/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
 | [1903-largest-odd-number-in-string](https://github.com/ayankundu77/LEETCODE/tree/master/1903-largest-odd-number-in-string) |
 | [2947-count-beautiful-substrings-i](https://github.com/ayankundu77/LEETCODE/tree/master/2947-count-beautiful-substrings-i) |
+| [3100-water-bottles-ii](https://github.com/ayankundu77/LEETCODE/tree/master/3100-water-bottles-ii) |
 | [3524-find-x-value-of-array-i](https://github.com/ayankundu77/LEETCODE/tree/master/3524-find-x-value-of-array-i) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/ayankundu77/LEETCODE/tree/master/3658-gcd-of-odd-and-even-sums) |
 ## Number Theory
@@ -299,6 +300,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0946-validate-stack-sequences](https://github.com/ayankundu77/LEETCODE/tree/master/0946-validate-stack-sequences) |
+| [3100-water-bottles-ii](https://github.com/ayankundu77/LEETCODE/tree/master/3100-water-bottles-ii) |
 | [3498-reverse-degree-of-a-string](https://github.com/ayankundu77/LEETCODE/tree/master/3498-reverse-degree-of-a-string) |
 ## Greedy
 |  |
