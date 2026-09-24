@@ -111,6 +111,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0213-house-robber-ii](https://github.com/ayankundu77/LEETCODE/tree/master/0213-house-robber-ii) |
 | [0229-majority-element-ii](https://github.com/ayankundu77/LEETCODE/tree/master/0229-majority-element-ii) |
 | [0322-coin-change](https://github.com/ayankundu77/LEETCODE/tree/master/0322-coin-change) |
+| [0329-longest-increasing-path-in-a-matrix](https://github.com/ayankundu77/LEETCODE/tree/master/0329-longest-increasing-path-in-a-matrix) |
 | [0349-intersection-of-two-arrays](https://github.com/ayankundu77/LEETCODE/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/ayankundu77/LEETCODE/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0416-partition-equal-subset-sum](https://github.com/ayankundu77/LEETCODE/tree/master/0416-partition-equal-subset-sum) |
@@ -140,6 +141,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0322-coin-change](https://github.com/ayankundu77/LEETCODE/tree/master/0322-coin-change) |
+| [0329-longest-increasing-path-in-a-matrix](https://github.com/ayankundu77/LEETCODE/tree/master/0329-longest-increasing-path-in-a-matrix) |
 | [0721-accounts-merge](https://github.com/ayankundu77/LEETCODE/tree/master/0721-accounts-merge) |
 | [0743-network-delay-time](https://github.com/ayankundu77/LEETCODE/tree/master/0743-network-delay-time) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/ayankundu77/LEETCODE/tree/master/0787-cheapest-flights-within-k-stops) |
@@ -152,6 +154,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0063-unique-paths-ii](https://github.com/ayankundu77/LEETCODE/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/ayankundu77/LEETCODE/tree/master/0064-minimum-path-sum) |
+| [0329-longest-increasing-path-in-a-matrix](https://github.com/ayankundu77/LEETCODE/tree/master/0329-longest-increasing-path-in-a-matrix) |
 | [0827-making-a-large-island](https://github.com/ayankundu77/LEETCODE/tree/master/0827-making-a-large-island) |
 | [0835-image-overlap](https://github.com/ayankundu77/LEETCODE/tree/master/0835-image-overlap) |
 | [0931-minimum-falling-path-sum](https://github.com/ayankundu77/LEETCODE/tree/master/0931-minimum-falling-path-sum) |
@@ -169,6 +172,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Depth-First Search
 |  |
 | ------- |
+| [0329-longest-increasing-path-in-a-matrix](https://github.com/ayankundu77/LEETCODE/tree/master/0329-longest-increasing-path-in-a-matrix) |
 | [0472-concatenated-words](https://github.com/ayankundu77/LEETCODE/tree/master/0472-concatenated-words) |
 | [0721-accounts-merge](https://github.com/ayankundu77/LEETCODE/tree/master/0721-accounts-merge) |
 | [0743-network-delay-time](https://github.com/ayankundu77/LEETCODE/tree/master/0743-network-delay-time) |
@@ -202,6 +206,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0198-house-robber](https://github.com/ayankundu77/LEETCODE/tree/master/0198-house-robber) |
 | [0213-house-robber-ii](https://github.com/ayankundu77/LEETCODE/tree/master/0213-house-robber-ii) |
 | [0322-coin-change](https://github.com/ayankundu77/LEETCODE/tree/master/0322-coin-change) |
+| [0329-longest-increasing-path-in-a-matrix](https://github.com/ayankundu77/LEETCODE/tree/master/0329-longest-increasing-path-in-a-matrix) |
 | [0416-partition-equal-subset-sum](https://github.com/ayankundu77/LEETCODE/tree/master/0416-partition-equal-subset-sum) |
 | [0472-concatenated-words](https://github.com/ayankundu77/LEETCODE/tree/master/0472-concatenated-words) |
 | [0494-target-sum](https://github.com/ayankundu77/LEETCODE/tree/master/0494-target-sum) |
@@ -219,6 +224,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Graph Theory
 |  |
 | ------- |
+| [0329-longest-increasing-path-in-a-matrix](https://github.com/ayankundu77/LEETCODE/tree/master/0329-longest-increasing-path-in-a-matrix) |
 | [0743-network-delay-time](https://github.com/ayankundu77/LEETCODE/tree/master/0743-network-delay-time) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/ayankundu77/LEETCODE/tree/master/0787-cheapest-flights-within-k-stops) |
 | [0947-most-stones-removed-with-same-row-or-column](https://github.com/ayankundu77/LEETCODE/tree/master/0947-most-stones-removed-with-same-row-or-column) |
@@ -236,6 +242,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Topological Sort
 |  |
 | ------- |
+| [0329-longest-increasing-path-in-a-matrix](https://github.com/ayankundu77/LEETCODE/tree/master/0329-longest-increasing-path-in-a-matrix) |
 | [1976-number-of-ways-to-arrive-at-destination](https://github.com/ayankundu77/LEETCODE/tree/master/1976-number-of-ways-to-arrive-at-destination) |
 ## Math
 |  |
@@ -372,6 +379,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0070-climbing-stairs](https://github.com/ayankundu77/LEETCODE/tree/master/0070-climbing-stairs) |
+| [0329-longest-increasing-path-in-a-matrix](https://github.com/ayankundu77/LEETCODE/tree/master/0329-longest-increasing-path-in-a-matrix) |
 ## Binary Indexed Tree
 |  |
 | ------- |
@@ -425,4 +433,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1143-longest-common-subsequence](https://github.com/ayankundu77/LEETCODE/tree/master/1143-longest-common-subsequence) |
+## Directed Acyclic Graph
+|  |
+| ------- |
+| [0329-longest-increasing-path-in-a-matrix](https://github.com/ayankundu77/LEETCODE/tree/master/0329-longest-increasing-path-in-a-matrix) |
 <!---LeetCode Topics End-->
