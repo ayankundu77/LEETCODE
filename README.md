@@ -210,6 +210,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0416-partition-equal-subset-sum](https://github.com/ayankundu77/LEETCODE/tree/master/0416-partition-equal-subset-sum) |
 | [0472-concatenated-words](https://github.com/ayankundu77/LEETCODE/tree/master/0472-concatenated-words) |
 | [0494-target-sum](https://github.com/ayankundu77/LEETCODE/tree/master/0494-target-sum) |
+| [0516-longest-palindromic-subsequence](https://github.com/ayankundu77/LEETCODE/tree/master/0516-longest-palindromic-subsequence) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/ayankundu77/LEETCODE/tree/master/0787-cheapest-flights-within-k-stops) |
 | [0931-minimum-falling-path-sum](https://github.com/ayankundu77/LEETCODE/tree/master/0931-minimum-falling-path-sum) |
 | [1143-longest-common-subsequence](https://github.com/ayankundu77/LEETCODE/tree/master/1143-longest-common-subsequence) |
@@ -285,6 +286,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0451-sort-characters-by-frequency](https://github.com/ayankundu77/LEETCODE/tree/master/0451-sort-characters-by-frequency) |
 | [0459-repeated-substring-pattern](https://github.com/ayankundu77/LEETCODE/tree/master/0459-repeated-substring-pattern) |
 | [0472-concatenated-words](https://github.com/ayankundu77/LEETCODE/tree/master/0472-concatenated-words) |
+| [0516-longest-palindromic-subsequence](https://github.com/ayankundu77/LEETCODE/tree/master/0516-longest-palindromic-subsequence) |
 | [0686-repeated-string-match](https://github.com/ayankundu77/LEETCODE/tree/master/0686-repeated-string-match) |
 | [0721-accounts-merge](https://github.com/ayankundu77/LEETCODE/tree/master/0721-accounts-merge) |
 | [0796-rotate-string](https://github.com/ayankundu77/LEETCODE/tree/master/0796-rotate-string) |
