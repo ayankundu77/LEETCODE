@@ -29,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0345-reverse-vowels-of-a-string](https://github.com/ayankundu77/LEETCODE/tree/master/0345-reverse-vowels-of-a-string) |
 | [0349-intersection-of-two-arrays](https://github.com/ayankundu77/LEETCODE/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/ayankundu77/LEETCODE/tree/master/0350-intersection-of-two-arrays-ii) |
+| [0977-squares-of-a-sorted-array](https://github.com/ayankundu77/LEETCODE/tree/master/0977-squares-of-a-sorted-array) |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/ayankundu77/LEETCODE/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
 ## Divide and Conquer
 |  |
@@ -67,6 +68,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0472-concatenated-words](https://github.com/ayankundu77/LEETCODE/tree/master/0472-concatenated-words) |
 | [0628-maximum-product-of-three-numbers](https://github.com/ayankundu77/LEETCODE/tree/master/0628-maximum-product-of-three-numbers) |
 | [0721-accounts-merge](https://github.com/ayankundu77/LEETCODE/tree/master/0721-accounts-merge) |
+| [0977-squares-of-a-sorted-array](https://github.com/ayankundu77/LEETCODE/tree/master/0977-squares-of-a-sorted-array) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/ayankundu77/LEETCODE/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/ayankundu77/LEETCODE/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
 | [1547-minimum-cost-to-cut-a-stick](https://github.com/ayankundu77/LEETCODE/tree/master/1547-minimum-cost-to-cut-a-stick) |
@@ -127,6 +129,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0835-image-overlap](https://github.com/ayankundu77/LEETCODE/tree/master/0835-image-overlap) |
 | [0931-minimum-falling-path-sum](https://github.com/ayankundu77/LEETCODE/tree/master/0931-minimum-falling-path-sum) |
 | [0946-validate-stack-sequences](https://github.com/ayankundu77/LEETCODE/tree/master/0946-validate-stack-sequences) |
+| [0977-squares-of-a-sorted-array](https://github.com/ayankundu77/LEETCODE/tree/master/0977-squares-of-a-sorted-array) |
 | [1091-shortest-path-in-binary-matrix](https://github.com/ayankundu77/LEETCODE/tree/master/1091-shortest-path-in-binary-matrix) |
 | [1299-replace-elements-with-greatest-element-on-right-side](https://github.com/ayankundu77/LEETCODE/tree/master/1299-replace-elements-with-greatest-element-on-right-side) |
 | [1463-cherry-pickup-ii](https://github.com/ayankundu77/LEETCODE/tree/master/1463-cherry-pickup-ii) |
