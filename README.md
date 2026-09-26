@@ -174,6 +174,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/ayankundu77/LEETCODE/tree/master/0329-longest-increasing-path-in-a-matrix) |
 | [0472-concatenated-words](https://github.com/ayankundu77/LEETCODE/tree/master/0472-concatenated-words) |
+| [0687-longest-univalue-path](https://github.com/ayankundu77/LEETCODE/tree/master/0687-longest-univalue-path) |
 | [0721-accounts-merge](https://github.com/ayankundu77/LEETCODE/tree/master/0721-accounts-merge) |
 | [0743-network-delay-time](https://github.com/ayankundu77/LEETCODE/tree/master/0743-network-delay-time) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/ayankundu77/LEETCODE/tree/master/0787-cheapest-flights-within-k-stops) |
@@ -364,6 +365,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/ayankundu77/LEETCODE/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
+| [0687-longest-univalue-path](https://github.com/ayankundu77/LEETCODE/tree/master/0687-longest-univalue-path) |
 ## Binary Search Tree
 |  |
 | ------- |
@@ -372,6 +374,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/ayankundu77/LEETCODE/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
+| [0687-longest-univalue-path](https://github.com/ayankundu77/LEETCODE/tree/master/0687-longest-univalue-path) |
 ## Enumeration
 |  |
 | ------- |
@@ -465,4 +468,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0686-repeated-string-match](https://github.com/ayankundu77/LEETCODE/tree/master/0686-repeated-string-match) |
+## DP on Trees
+|  |
+| ------- |
+| [0687-longest-univalue-path](https://github.com/ayankundu77/LEETCODE/tree/master/0687-longest-univalue-path) |
 <!---LeetCode Topics End-->
