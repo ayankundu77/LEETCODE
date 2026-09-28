@@ -154,6 +154,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Breadth-First Search
 |  |
 | ------- |
+| [0111-minimum-depth-of-binary-tree](https://github.com/ayankundu77/LEETCODE/tree/master/0111-minimum-depth-of-binary-tree) |
 | [0322-coin-change](https://github.com/ayankundu77/LEETCODE/tree/master/0322-coin-change) |
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/ayankundu77/LEETCODE/tree/master/0329-longest-increasing-path-in-a-matrix) |
 | [0721-accounts-merge](https://github.com/ayankundu77/LEETCODE/tree/master/0721-accounts-merge) |
@@ -186,6 +187,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Depth-First Search
 |  |
 | ------- |
+| [0111-minimum-depth-of-binary-tree](https://github.com/ayankundu77/LEETCODE/tree/master/0111-minimum-depth-of-binary-tree) |
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/ayankundu77/LEETCODE/tree/master/0329-longest-increasing-path-in-a-matrix) |
 | [0472-concatenated-words](https://github.com/ayankundu77/LEETCODE/tree/master/0472-concatenated-words) |
 | [0687-longest-univalue-path](https://github.com/ayankundu77/LEETCODE/tree/master/0687-longest-univalue-path) |
@@ -395,6 +397,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/ayankundu77/LEETCODE/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
+| [0111-minimum-depth-of-binary-tree](https://github.com/ayankundu77/LEETCODE/tree/master/0111-minimum-depth-of-binary-tree) |
 | [0687-longest-univalue-path](https://github.com/ayankundu77/LEETCODE/tree/master/0687-longest-univalue-path) |
 ## Binary Search Tree
 |  |
@@ -404,6 +407,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/ayankundu77/LEETCODE/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
+| [0111-minimum-depth-of-binary-tree](https://github.com/ayankundu77/LEETCODE/tree/master/0111-minimum-depth-of-binary-tree) |
 | [0687-longest-univalue-path](https://github.com/ayankundu77/LEETCODE/tree/master/0687-longest-univalue-path) |
 ## Enumeration
 |  |
