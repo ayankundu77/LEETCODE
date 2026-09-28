@@ -11,12 +11,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0083-remove-duplicates-from-sorted-list](https://github.com/ayankundu77/LEETCODE/tree/master/0083-remove-duplicates-from-sorted-list) |
 | [0138-copy-list-with-random-pointer](https://github.com/ayankundu77/LEETCODE/tree/master/0138-copy-list-with-random-pointer) |
 | [0148-sort-list](https://github.com/ayankundu77/LEETCODE/tree/master/0148-sort-list) |
+| [0203-remove-linked-list-elements](https://github.com/ayankundu77/LEETCODE/tree/master/0203-remove-linked-list-elements) |
 ## Recursion
 |  |
 | ------- |
 | [0021-merge-two-sorted-lists](https://github.com/ayankundu77/LEETCODE/tree/master/0021-merge-two-sorted-lists) |
 | [0025-reverse-nodes-in-k-group](https://github.com/ayankundu77/LEETCODE/tree/master/0025-reverse-nodes-in-k-group) |
 | [0044-wildcard-matching](https://github.com/ayankundu77/LEETCODE/tree/master/0044-wildcard-matching) |
+| [0203-remove-linked-list-elements](https://github.com/ayankundu77/LEETCODE/tree/master/0203-remove-linked-list-elements) |
 ## Two Pointers
 |  |
 | ------- |
