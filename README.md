@@ -215,6 +215,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1192-critical-connections-in-a-network](https://github.com/ayankundu77/LEETCODE/tree/master/1192-critical-connections-in-a-network) |
 | [1319-number-of-operations-to-make-network-connected](https://github.com/ayankundu77/LEETCODE/tree/master/1319-number-of-operations-to-make-network-connected) |
 | [1631-path-with-minimum-effort](https://github.com/ayankundu77/LEETCODE/tree/master/1631-path-with-minimum-effort) |
+| [2331-evaluate-boolean-binary-tree](https://github.com/ayankundu77/LEETCODE/tree/master/2331-evaluate-boolean-binary-tree) |
 ## Union-Find
 |  |
 | ------- |
@@ -433,6 +434,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/ayankundu77/LEETCODE/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0111-minimum-depth-of-binary-tree](https://github.com/ayankundu77/LEETCODE/tree/master/0111-minimum-depth-of-binary-tree) |
 | [0687-longest-univalue-path](https://github.com/ayankundu77/LEETCODE/tree/master/0687-longest-univalue-path) |
+| [2331-evaluate-boolean-binary-tree](https://github.com/ayankundu77/LEETCODE/tree/master/2331-evaluate-boolean-binary-tree) |
 ## Binary Search Tree
 |  |
 | ------- |
@@ -443,6 +445,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/ayankundu77/LEETCODE/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0111-minimum-depth-of-binary-tree](https://github.com/ayankundu77/LEETCODE/tree/master/0111-minimum-depth-of-binary-tree) |
 | [0687-longest-univalue-path](https://github.com/ayankundu77/LEETCODE/tree/master/0687-longest-univalue-path) |
+| [2331-evaluate-boolean-binary-tree](https://github.com/ayankundu77/LEETCODE/tree/master/2331-evaluate-boolean-binary-tree) |
 ## Enumeration
 |  |
 | ------- |
