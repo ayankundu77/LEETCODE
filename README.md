@@ -34,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0349-intersection-of-two-arrays](https://github.com/ayankundu77/LEETCODE/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/ayankundu77/LEETCODE/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0647-palindromic-substrings](https://github.com/ayankundu77/LEETCODE/tree/master/0647-palindromic-substrings) |
+| [0845-longest-mountain-in-array](https://github.com/ayankundu77/LEETCODE/tree/master/0845-longest-mountain-in-array) |
 | [0977-squares-of-a-sorted-array](https://github.com/ayankundu77/LEETCODE/tree/master/0977-squares-of-a-sorted-array) |
 | [1048-longest-string-chain](https://github.com/ayankundu77/LEETCODE/tree/master/1048-longest-string-chain) |
 | [1089-duplicate-zeros](https://github.com/ayankundu77/LEETCODE/tree/master/1089-duplicate-zeros) |
@@ -150,6 +151,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0739-daily-temperatures](https://github.com/ayankundu77/LEETCODE/tree/master/0739-daily-temperatures) |
 | [0827-making-a-large-island](https://github.com/ayankundu77/LEETCODE/tree/master/0827-making-a-large-island) |
 | [0835-image-overlap](https://github.com/ayankundu77/LEETCODE/tree/master/0835-image-overlap) |
+| [0845-longest-mountain-in-array](https://github.com/ayankundu77/LEETCODE/tree/master/0845-longest-mountain-in-array) |
 | [0931-minimum-falling-path-sum](https://github.com/ayankundu77/LEETCODE/tree/master/0931-minimum-falling-path-sum) |
 | [0941-valid-mountain-array](https://github.com/ayankundu77/LEETCODE/tree/master/0941-valid-mountain-array) |
 | [0946-validate-stack-sequences](https://github.com/ayankundu77/LEETCODE/tree/master/0946-validate-stack-sequences) |
@@ -267,6 +269,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0647-palindromic-substrings](https://github.com/ayankundu77/LEETCODE/tree/master/0647-palindromic-substrings) |
 | [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/ayankundu77/LEETCODE/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/ayankundu77/LEETCODE/tree/master/0787-cheapest-flights-within-k-stops) |
+| [0845-longest-mountain-in-array](https://github.com/ayankundu77/LEETCODE/tree/master/0845-longest-mountain-in-array) |
 | [0931-minimum-falling-path-sum](https://github.com/ayankundu77/LEETCODE/tree/master/0931-minimum-falling-path-sum) |
 | [1048-longest-string-chain](https://github.com/ayankundu77/LEETCODE/tree/master/1048-longest-string-chain) |
 | [1092-shortest-common-supersequence](https://github.com/ayankundu77/LEETCODE/tree/master/1092-shortest-common-supersequence) |
@@ -460,6 +463,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Enumeration
 |  |
 | ------- |
+| [0845-longest-mountain-in-array](https://github.com/ayankundu77/LEETCODE/tree/master/0845-longest-mountain-in-array) |
 | [2947-count-beautiful-substrings-i](https://github.com/ayankundu77/LEETCODE/tree/master/2947-count-beautiful-substrings-i) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/ayankundu77/LEETCODE/tree/master/3345-smallest-divisible-digit-product-i) |
 ## Prefix Sum
