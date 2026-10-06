@@ -38,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0977-squares-of-a-sorted-array](https://github.com/ayankundu77/LEETCODE/tree/master/0977-squares-of-a-sorted-array) |
 | [1048-longest-string-chain](https://github.com/ayankundu77/LEETCODE/tree/master/1048-longest-string-chain) |
 | [1089-duplicate-zeros](https://github.com/ayankundu77/LEETCODE/tree/master/1089-duplicate-zeros) |
+| [2000-reverse-prefix-of-word](https://github.com/ayankundu77/LEETCODE/tree/master/2000-reverse-prefix-of-word) |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/ayankundu77/LEETCODE/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
 ## Divide and Conquer
 |  |
@@ -412,6 +413,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/ayankundu77/LEETCODE/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
 | [1903-largest-odd-number-in-string](https://github.com/ayankundu77/LEETCODE/tree/master/1903-largest-odd-number-in-string) |
 | [1957-delete-characters-to-make-fancy-string](https://github.com/ayankundu77/LEETCODE/tree/master/1957-delete-characters-to-make-fancy-string) |
+| [2000-reverse-prefix-of-word](https://github.com/ayankundu77/LEETCODE/tree/master/2000-reverse-prefix-of-word) |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/ayankundu77/LEETCODE/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
 | [2947-count-beautiful-substrings-i](https://github.com/ayankundu77/LEETCODE/tree/master/2947-count-beautiful-substrings-i) |
 | [3498-reverse-degree-of-a-string](https://github.com/ayankundu77/LEETCODE/tree/master/3498-reverse-degree-of-a-string) |
@@ -433,6 +435,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/ayankundu77/LEETCODE/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 | [1544-make-the-string-great](https://github.com/ayankundu77/LEETCODE/tree/master/1544-make-the-string-great) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/ayankundu77/LEETCODE/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
+| [2000-reverse-prefix-of-word](https://github.com/ayankundu77/LEETCODE/tree/master/2000-reverse-prefix-of-word) |
 ## Monotonic Stack
 |  |
 | ------- |
