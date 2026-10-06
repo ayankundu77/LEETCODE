@@ -167,6 +167,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1048-longest-string-chain](https://github.com/ayankundu77/LEETCODE/tree/master/1048-longest-string-chain) |
 | [1089-duplicate-zeros](https://github.com/ayankundu77/LEETCODE/tree/master/1089-duplicate-zeros) |
 | [1091-shortest-path-in-binary-matrix](https://github.com/ayankundu77/LEETCODE/tree/master/1091-shortest-path-in-binary-matrix) |
+| [1277-count-square-submatrices-with-all-ones](https://github.com/ayankundu77/LEETCODE/tree/master/1277-count-square-submatrices-with-all-ones) |
 | [1299-replace-elements-with-greatest-element-on-right-side](https://github.com/ayankundu77/LEETCODE/tree/master/1299-replace-elements-with-greatest-element-on-right-side) |
 | [1436-destination-city](https://github.com/ayankundu77/LEETCODE/tree/master/1436-destination-city) |
 | [1460-make-two-arrays-equal-by-reversing-subarrays](https://github.com/ayankundu77/LEETCODE/tree/master/1460-make-two-arrays-equal-by-reversing-subarrays) |
@@ -206,6 +207,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0835-image-overlap](https://github.com/ayankundu77/LEETCODE/tree/master/0835-image-overlap) |
 | [0931-minimum-falling-path-sum](https://github.com/ayankundu77/LEETCODE/tree/master/0931-minimum-falling-path-sum) |
 | [1091-shortest-path-in-binary-matrix](https://github.com/ayankundu77/LEETCODE/tree/master/1091-shortest-path-in-binary-matrix) |
+| [1277-count-square-submatrices-with-all-ones](https://github.com/ayankundu77/LEETCODE/tree/master/1277-count-square-submatrices-with-all-ones) |
 | [1463-cherry-pickup-ii](https://github.com/ayankundu77/LEETCODE/tree/master/1463-cherry-pickup-ii) |
 | [1631-path-with-minimum-effort](https://github.com/ayankundu77/LEETCODE/tree/master/1631-path-with-minimum-effort) |
 | [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/ayankundu77/LEETCODE/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
@@ -294,6 +296,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1048-longest-string-chain](https://github.com/ayankundu77/LEETCODE/tree/master/1048-longest-string-chain) |
 | [1092-shortest-common-supersequence](https://github.com/ayankundu77/LEETCODE/tree/master/1092-shortest-common-supersequence) |
 | [1143-longest-common-subsequence](https://github.com/ayankundu77/LEETCODE/tree/master/1143-longest-common-subsequence) |
+| [1277-count-square-submatrices-with-all-ones](https://github.com/ayankundu77/LEETCODE/tree/master/1277-count-square-submatrices-with-all-ones) |
 | [1312-minimum-insertion-steps-to-make-a-string-palindrome](https://github.com/ayankundu77/LEETCODE/tree/master/1312-minimum-insertion-steps-to-make-a-string-palindrome) |
 | [1334-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance](https://github.com/ayankundu77/LEETCODE/tree/master/1334-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance) |
 | [1463-cherry-pickup-ii](https://github.com/ayankundu77/LEETCODE/tree/master/1463-cherry-pickup-ii) |
