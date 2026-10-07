@@ -191,6 +191,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0111-minimum-depth-of-binary-tree](https://github.com/ayankundu77/LEETCODE/tree/master/0111-minimum-depth-of-binary-tree) |
+| [0301-remove-invalid-parentheses](https://github.com/ayankundu77/LEETCODE/tree/master/0301-remove-invalid-parentheses) |
 | [0322-coin-change](https://github.com/ayankundu77/LEETCODE/tree/master/0322-coin-change) |
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/ayankundu77/LEETCODE/tree/master/0329-longest-increasing-path-in-a-matrix) |
 | [0695-max-area-of-island](https://github.com/ayankundu77/LEETCODE/tree/master/0695-max-area-of-island) |
@@ -384,6 +385,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0151-reverse-words-in-a-string](https://github.com/ayankundu77/LEETCODE/tree/master/0151-reverse-words-in-a-string) |
 | [0205-isomorphic-strings](https://github.com/ayankundu77/LEETCODE/tree/master/0205-isomorphic-strings) |
 | [0242-valid-anagram](https://github.com/ayankundu77/LEETCODE/tree/master/0242-valid-anagram) |
+| [0301-remove-invalid-parentheses](https://github.com/ayankundu77/LEETCODE/tree/master/0301-remove-invalid-parentheses) |
 | [0316-remove-duplicate-letters](https://github.com/ayankundu77/LEETCODE/tree/master/0316-remove-duplicate-letters) |
 | [0345-reverse-vowels-of-a-string](https://github.com/ayankundu77/LEETCODE/tree/master/0345-reverse-vowels-of-a-string) |
 | [0383-ransom-note](https://github.com/ayankundu77/LEETCODE/tree/master/0383-ransom-note) |
@@ -587,6 +589,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0022-generate-parentheses](https://github.com/ayankundu77/LEETCODE/tree/master/0022-generate-parentheses) |
+| [0301-remove-invalid-parentheses](https://github.com/ayankundu77/LEETCODE/tree/master/0301-remove-invalid-parentheses) |
 | [0494-target-sum](https://github.com/ayankundu77/LEETCODE/tree/master/0494-target-sum) |
 ## Longest Common Subsequence
 |  |
