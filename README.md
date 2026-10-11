@@ -68,6 +68,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1834-single-threaded-cpu](https://github.com/ayankundu77/LEETCODE/tree/master/1834-single-threaded-cpu) |
 | [1962-remove-stones-to-minimize-the-total](https://github.com/ayankundu77/LEETCODE/tree/master/1962-remove-stones-to-minimize-the-total) |
 | [2333-minimum-sum-of-squared-difference](https://github.com/ayankundu77/LEETCODE/tree/master/2333-minimum-sum-of-squared-difference) |
+| [2542-maximum-subsequence-score](https://github.com/ayankundu77/LEETCODE/tree/master/2542-maximum-subsequence-score) |
 ## Merge Sort
 |  |
 | ------- |
@@ -104,6 +105,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1547-minimum-cost-to-cut-a-stick](https://github.com/ayankundu77/LEETCODE/tree/master/1547-minimum-cost-to-cut-a-stick) |
 | [1834-single-threaded-cpu](https://github.com/ayankundu77/LEETCODE/tree/master/1834-single-threaded-cpu) |
 | [2333-minimum-sum-of-squared-difference](https://github.com/ayankundu77/LEETCODE/tree/master/2333-minimum-sum-of-squared-difference) |
+| [2542-maximum-subsequence-score](https://github.com/ayankundu77/LEETCODE/tree/master/2542-maximum-subsequence-score) |
 ## Hash Table
 |  |
 | ------- |
@@ -216,6 +218,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/ayankundu77/LEETCODE/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
 | [2333-minimum-sum-of-squared-difference](https://github.com/ayankundu77/LEETCODE/tree/master/2333-minimum-sum-of-squared-difference) |
 | [2373-largest-local-values-in-a-matrix](https://github.com/ayankundu77/LEETCODE/tree/master/2373-largest-local-values-in-a-matrix) |
+| [2542-maximum-subsequence-score](https://github.com/ayankundu77/LEETCODE/tree/master/2542-maximum-subsequence-score) |
 | [2549-count-distinct-numbers-on-board](https://github.com/ayankundu77/LEETCODE/tree/master/2549-count-distinct-numbers-on-board) |
 | [2778-sum-of-squares-of-special-elements](https://github.com/ayankundu77/LEETCODE/tree/master/2778-sum-of-squares-of-special-elements) |
 | [3524-find-x-value-of-array-i](https://github.com/ayankundu77/LEETCODE/tree/master/3524-find-x-value-of-array-i) |
@@ -514,6 +517,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1962-remove-stones-to-minimize-the-total](https://github.com/ayankundu77/LEETCODE/tree/master/1962-remove-stones-to-minimize-the-total) |
 | [2333-minimum-sum-of-squared-difference](https://github.com/ayankundu77/LEETCODE/tree/master/2333-minimum-sum-of-squared-difference) |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/ayankundu77/LEETCODE/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
+| [2542-maximum-subsequence-score](https://github.com/ayankundu77/LEETCODE/tree/master/2542-maximum-subsequence-score) |
 ## String Matching
 |  |
 | ------- |
