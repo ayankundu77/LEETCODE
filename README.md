@@ -209,6 +209,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2333-minimum-sum-of-squared-difference](https://github.com/ayankundu77/LEETCODE/tree/master/2333-minimum-sum-of-squared-difference) |
 | [2373-largest-local-values-in-a-matrix](https://github.com/ayankundu77/LEETCODE/tree/master/2373-largest-local-values-in-a-matrix) |
 | [2549-count-distinct-numbers-on-board](https://github.com/ayankundu77/LEETCODE/tree/master/2549-count-distinct-numbers-on-board) |
+| [2778-sum-of-squares-of-special-elements](https://github.com/ayankundu77/LEETCODE/tree/master/2778-sum-of-squares-of-special-elements) |
 | [3524-find-x-value-of-array-i](https://github.com/ayankundu77/LEETCODE/tree/master/3524-find-x-value-of-array-i) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/ayankundu77/LEETCODE/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 ## Breadth-First Search
@@ -557,6 +558,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0845-longest-mountain-in-array](https://github.com/ayankundu77/LEETCODE/tree/master/0845-longest-mountain-in-array) |
+| [2778-sum-of-squares-of-special-elements](https://github.com/ayankundu77/LEETCODE/tree/master/2778-sum-of-squares-of-special-elements) |
 | [2947-count-beautiful-substrings-i](https://github.com/ayankundu77/LEETCODE/tree/master/2947-count-beautiful-substrings-i) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/ayankundu77/LEETCODE/tree/master/3345-smallest-divisible-digit-product-i) |
 ## Prefix Sum
