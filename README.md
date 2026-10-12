@@ -390,6 +390,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0062-unique-paths](https://github.com/ayankundu77/LEETCODE/tree/master/0062-unique-paths) |
 | [0066-plus-one](https://github.com/ayankundu77/LEETCODE/tree/master/0066-plus-one) |
 | [0070-climbing-stairs](https://github.com/ayankundu77/LEETCODE/tree/master/0070-climbing-stairs) |
+| [0263-ugly-number](https://github.com/ayankundu77/LEETCODE/tree/master/0263-ugly-number) |
 | [0264-ugly-number-ii](https://github.com/ayankundu77/LEETCODE/tree/master/0264-ugly-number-ii) |
 | [0368-largest-divisible-subset](https://github.com/ayankundu77/LEETCODE/tree/master/0368-largest-divisible-subset) |
 | [0628-maximum-product-of-three-numbers](https://github.com/ayankundu77/LEETCODE/tree/master/0628-maximum-product-of-three-numbers) |
