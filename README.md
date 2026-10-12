@@ -56,6 +56,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/ayankundu77/LEETCODE/tree/master/0023-merge-k-sorted-lists) |
 | [0215-kth-largest-element-in-an-array](https://github.com/ayankundu77/LEETCODE/tree/master/0215-kth-largest-element-in-an-array) |
+| [0264-ugly-number-ii](https://github.com/ayankundu77/LEETCODE/tree/master/0264-ugly-number-ii) |
 | [0295-find-median-from-data-stream](https://github.com/ayankundu77/LEETCODE/tree/master/0295-find-median-from-data-stream) |
 | [0347-top-k-frequent-elements](https://github.com/ayankundu77/LEETCODE/tree/master/0347-top-k-frequent-elements) |
 | [0451-sort-characters-by-frequency](https://github.com/ayankundu77/LEETCODE/tree/master/0451-sort-characters-by-frequency) |
@@ -117,6 +118,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0205-isomorphic-strings](https://github.com/ayankundu77/LEETCODE/tree/master/0205-isomorphic-strings) |
 | [0229-majority-element-ii](https://github.com/ayankundu77/LEETCODE/tree/master/0229-majority-element-ii) |
 | [0242-valid-anagram](https://github.com/ayankundu77/LEETCODE/tree/master/0242-valid-anagram) |
+| [0264-ugly-number-ii](https://github.com/ayankundu77/LEETCODE/tree/master/0264-ugly-number-ii) |
 | [0347-top-k-frequent-elements](https://github.com/ayankundu77/LEETCODE/tree/master/0347-top-k-frequent-elements) |
 | [0349-intersection-of-two-arrays](https://github.com/ayankundu77/LEETCODE/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/ayankundu77/LEETCODE/tree/master/0350-intersection-of-two-arrays-ii) |
@@ -322,6 +324,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0188-best-time-to-buy-and-sell-stock-iv](https://github.com/ayankundu77/LEETCODE/tree/master/0188-best-time-to-buy-and-sell-stock-iv) |
 | [0198-house-robber](https://github.com/ayankundu77/LEETCODE/tree/master/0198-house-robber) |
 | [0213-house-robber-ii](https://github.com/ayankundu77/LEETCODE/tree/master/0213-house-robber-ii) |
+| [0264-ugly-number-ii](https://github.com/ayankundu77/LEETCODE/tree/master/0264-ugly-number-ii) |
 | [0300-longest-increasing-subsequence](https://github.com/ayankundu77/LEETCODE/tree/master/0300-longest-increasing-subsequence) |
 | [0309-best-time-to-buy-and-sell-stock-with-cooldown](https://github.com/ayankundu77/LEETCODE/tree/master/0309-best-time-to-buy-and-sell-stock-with-cooldown) |
 | [0312-burst-balloons](https://github.com/ayankundu77/LEETCODE/tree/master/0312-burst-balloons) |
@@ -387,6 +390,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0062-unique-paths](https://github.com/ayankundu77/LEETCODE/tree/master/0062-unique-paths) |
 | [0066-plus-one](https://github.com/ayankundu77/LEETCODE/tree/master/0066-plus-one) |
 | [0070-climbing-stairs](https://github.com/ayankundu77/LEETCODE/tree/master/0070-climbing-stairs) |
+| [0264-ugly-number-ii](https://github.com/ayankundu77/LEETCODE/tree/master/0264-ugly-number-ii) |
 | [0368-largest-divisible-subset](https://github.com/ayankundu77/LEETCODE/tree/master/0368-largest-divisible-subset) |
 | [0628-maximum-product-of-three-numbers](https://github.com/ayankundu77/LEETCODE/tree/master/0628-maximum-product-of-three-numbers) |
 | [0836-rectangle-overlap](https://github.com/ayankundu77/LEETCODE/tree/master/0836-rectangle-overlap) |
