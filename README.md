@@ -207,6 +207,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1089-duplicate-zeros](https://github.com/ayankundu77/LEETCODE/tree/master/1089-duplicate-zeros) |
 | [1091-shortest-path-in-binary-matrix](https://github.com/ayankundu77/LEETCODE/tree/master/1091-shortest-path-in-binary-matrix) |
 | [1160-find-words-that-can-be-formed-by-characters](https://github.com/ayankundu77/LEETCODE/tree/master/1160-find-words-that-can-be-formed-by-characters) |
+| [1239-maximum-length-of-a-concatenated-string-with-unique-characters](https://github.com/ayankundu77/LEETCODE/tree/master/1239-maximum-length-of-a-concatenated-string-with-unique-characters) |
 | [1277-count-square-submatrices-with-all-ones](https://github.com/ayankundu77/LEETCODE/tree/master/1277-count-square-submatrices-with-all-ones) |
 | [1299-replace-elements-with-greatest-element-on-right-side](https://github.com/ayankundu77/LEETCODE/tree/master/1299-replace-elements-with-greatest-element-on-right-side) |
 | [1331-rank-transform-of-an-array](https://github.com/ayankundu77/LEETCODE/tree/master/1331-rank-transform-of-an-array) |
@@ -465,6 +466,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1143-longest-common-subsequence](https://github.com/ayankundu77/LEETCODE/tree/master/1143-longest-common-subsequence) |
 | [1160-find-words-that-can-be-formed-by-characters](https://github.com/ayankundu77/LEETCODE/tree/master/1160-find-words-that-can-be-formed-by-characters) |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/ayankundu77/LEETCODE/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
+| [1239-maximum-length-of-a-concatenated-string-with-unique-characters](https://github.com/ayankundu77/LEETCODE/tree/master/1239-maximum-length-of-a-concatenated-string-with-unique-characters) |
 | [1312-minimum-insertion-steps-to-make-a-string-palindrome](https://github.com/ayankundu77/LEETCODE/tree/master/1312-minimum-insertion-steps-to-make-a-string-palindrome) |
 | [1436-destination-city](https://github.com/ayankundu77/LEETCODE/tree/master/1436-destination-city) |
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/ayankundu77/LEETCODE/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
@@ -663,6 +665,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0022-generate-parentheses](https://github.com/ayankundu77/LEETCODE/tree/master/0022-generate-parentheses) |
 | [0301-remove-invalid-parentheses](https://github.com/ayankundu77/LEETCODE/tree/master/0301-remove-invalid-parentheses) |
 | [0494-target-sum](https://github.com/ayankundu77/LEETCODE/tree/master/0494-target-sum) |
+| [1239-maximum-length-of-a-concatenated-string-with-unique-characters](https://github.com/ayankundu77/LEETCODE/tree/master/1239-maximum-length-of-a-concatenated-string-with-unique-characters) |
 ## Longest Common Subsequence
 |  |
 | ------- |
@@ -723,6 +726,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0389-find-the-difference](https://github.com/ayankundu77/LEETCODE/tree/master/0389-find-the-difference) |
+| [1239-maximum-length-of-a-concatenated-string-with-unique-characters](https://github.com/ayankundu77/LEETCODE/tree/master/1239-maximum-length-of-a-concatenated-string-with-unique-characters) |
 | [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/ayankundu77/LEETCODE/tree/master/2897-apply-operations-on-array-to-maximize-sum-of-squares) |
 ## Design
 |  |
