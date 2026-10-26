@@ -234,6 +234,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/ayankundu77/LEETCODE/tree/master/2897-apply-operations-on-array-to-maximize-sum-of-squares) |
 | [3524-find-x-value-of-array-i](https://github.com/ayankundu77/LEETCODE/tree/master/3524-find-x-value-of-array-i) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/ayankundu77/LEETCODE/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
+| [3619-count-islands-with-total-value-divisible-by-k](https://github.com/ayankundu77/LEETCODE/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/ayankundu77/LEETCODE/tree/master/3727-maximum-alternating-sum-of-squares) |
 ## Breadth-First Search
 |  |
@@ -251,6 +252,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1091-shortest-path-in-binary-matrix](https://github.com/ayankundu77/LEETCODE/tree/master/1091-shortest-path-in-binary-matrix) |
 | [1319-number-of-operations-to-make-network-connected](https://github.com/ayankundu77/LEETCODE/tree/master/1319-number-of-operations-to-make-network-connected) |
 | [1631-path-with-minimum-effort](https://github.com/ayankundu77/LEETCODE/tree/master/1631-path-with-minimum-effort) |
+| [3619-count-islands-with-total-value-divisible-by-k](https://github.com/ayankundu77/LEETCODE/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
 ## Matrix
 |  |
 | ------- |
@@ -267,6 +269,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1631-path-with-minimum-effort](https://github.com/ayankundu77/LEETCODE/tree/master/1631-path-with-minimum-effort) |
 | [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/ayankundu77/LEETCODE/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
 | [2373-largest-local-values-in-a-matrix](https://github.com/ayankundu77/LEETCODE/tree/master/2373-largest-local-values-in-a-matrix) |
+| [3619-count-islands-with-total-value-divisible-by-k](https://github.com/ayankundu77/LEETCODE/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
 ## Binary Search
 |  |
 | ------- |
@@ -295,6 +298,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1319-number-of-operations-to-make-network-connected](https://github.com/ayankundu77/LEETCODE/tree/master/1319-number-of-operations-to-make-network-connected) |
 | [1631-path-with-minimum-effort](https://github.com/ayankundu77/LEETCODE/tree/master/1631-path-with-minimum-effort) |
 | [2331-evaluate-boolean-binary-tree](https://github.com/ayankundu77/LEETCODE/tree/master/2331-evaluate-boolean-binary-tree) |
+| [3619-count-islands-with-total-value-divisible-by-k](https://github.com/ayankundu77/LEETCODE/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
 ## Union-Find
 |  |
 | ------- |
@@ -305,6 +309,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0947-most-stones-removed-with-same-row-or-column](https://github.com/ayankundu77/LEETCODE/tree/master/0947-most-stones-removed-with-same-row-or-column) |
 | [1319-number-of-operations-to-make-network-connected](https://github.com/ayankundu77/LEETCODE/tree/master/1319-number-of-operations-to-make-network-connected) |
 | [1631-path-with-minimum-effort](https://github.com/ayankundu77/LEETCODE/tree/master/1631-path-with-minimum-effort) |
+| [3619-count-islands-with-total-value-divisible-by-k](https://github.com/ayankundu77/LEETCODE/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
 ## Dynamic Programming
 |  |
 | ------- |
