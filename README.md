@@ -101,6 +101,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0977-squares-of-a-sorted-array](https://github.com/ayankundu77/LEETCODE/tree/master/0977-squares-of-a-sorted-array) |
 | [1048-longest-string-chain](https://github.com/ayankundu77/LEETCODE/tree/master/1048-longest-string-chain) |
 | [1331-rank-transform-of-an-array](https://github.com/ayankundu77/LEETCODE/tree/master/1331-rank-transform-of-an-array) |
+| [1402-reducing-dishes](https://github.com/ayankundu77/LEETCODE/tree/master/1402-reducing-dishes) |
 | [1460-make-two-arrays-equal-by-reversing-subarrays](https://github.com/ayankundu77/LEETCODE/tree/master/1460-make-two-arrays-equal-by-reversing-subarrays) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/ayankundu77/LEETCODE/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/ayankundu77/LEETCODE/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
@@ -215,6 +216,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1277-count-square-submatrices-with-all-ones](https://github.com/ayankundu77/LEETCODE/tree/master/1277-count-square-submatrices-with-all-ones) |
 | [1299-replace-elements-with-greatest-element-on-right-side](https://github.com/ayankundu77/LEETCODE/tree/master/1299-replace-elements-with-greatest-element-on-right-side) |
 | [1331-rank-transform-of-an-array](https://github.com/ayankundu77/LEETCODE/tree/master/1331-rank-transform-of-an-array) |
+| [1402-reducing-dishes](https://github.com/ayankundu77/LEETCODE/tree/master/1402-reducing-dishes) |
 | [1436-destination-city](https://github.com/ayankundu77/LEETCODE/tree/master/1436-destination-city) |
 | [1460-make-two-arrays-equal-by-reversing-subarrays](https://github.com/ayankundu77/LEETCODE/tree/master/1460-make-two-arrays-equal-by-reversing-subarrays) |
 | [1463-cherry-pickup-ii](https://github.com/ayankundu77/LEETCODE/tree/master/1463-cherry-pickup-ii) |
@@ -373,6 +375,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1277-count-square-submatrices-with-all-ones](https://github.com/ayankundu77/LEETCODE/tree/master/1277-count-square-submatrices-with-all-ones) |
 | [1312-minimum-insertion-steps-to-make-a-string-palindrome](https://github.com/ayankundu77/LEETCODE/tree/master/1312-minimum-insertion-steps-to-make-a-string-palindrome) |
 | [1334-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance](https://github.com/ayankundu77/LEETCODE/tree/master/1334-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance) |
+| [1402-reducing-dishes](https://github.com/ayankundu77/LEETCODE/tree/master/1402-reducing-dishes) |
 | [1463-cherry-pickup-ii](https://github.com/ayankundu77/LEETCODE/tree/master/1463-cherry-pickup-ii) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/ayankundu77/LEETCODE/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [1547-minimum-cost-to-cut-a-stick](https://github.com/ayankundu77/LEETCODE/tree/master/1547-minimum-cost-to-cut-a-stick) |
@@ -550,6 +553,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0846-hand-of-straights](https://github.com/ayankundu77/LEETCODE/tree/master/0846-hand-of-straights) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/ayankundu77/LEETCODE/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/ayankundu77/LEETCODE/tree/master/1081-smallest-subsequence-of-distinct-characters) |
+| [1402-reducing-dishes](https://github.com/ayankundu77/LEETCODE/tree/master/1402-reducing-dishes) |
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/ayankundu77/LEETCODE/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
 | [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/ayankundu77/LEETCODE/tree/master/1541-minimum-insertions-to-balance-a-parentheses-string) |
 | [1903-largest-odd-number-in-string](https://github.com/ayankundu77/LEETCODE/tree/master/1903-largest-odd-number-in-string) |
