@@ -380,6 +380,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1312-minimum-insertion-steps-to-make-a-string-palindrome](https://github.com/ayankundu77/LEETCODE/tree/master/1312-minimum-insertion-steps-to-make-a-string-palindrome) |
 | [1334-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance](https://github.com/ayankundu77/LEETCODE/tree/master/1334-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance) |
 | [1402-reducing-dishes](https://github.com/ayankundu77/LEETCODE/tree/master/1402-reducing-dishes) |
+| [1416-restore-the-array](https://github.com/ayankundu77/LEETCODE/tree/master/1416-restore-the-array) |
 | [1463-cherry-pickup-ii](https://github.com/ayankundu77/LEETCODE/tree/master/1463-cherry-pickup-ii) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/ayankundu77/LEETCODE/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [1547-minimum-cost-to-cut-a-stick](https://github.com/ayankundu77/LEETCODE/tree/master/1547-minimum-cost-to-cut-a-stick) |
@@ -500,6 +501,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/ayankundu77/LEETCODE/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 | [1239-maximum-length-of-a-concatenated-string-with-unique-characters](https://github.com/ayankundu77/LEETCODE/tree/master/1239-maximum-length-of-a-concatenated-string-with-unique-characters) |
 | [1312-minimum-insertion-steps-to-make-a-string-palindrome](https://github.com/ayankundu77/LEETCODE/tree/master/1312-minimum-insertion-steps-to-make-a-string-palindrome) |
+| [1416-restore-the-array](https://github.com/ayankundu77/LEETCODE/tree/master/1416-restore-the-array) |
 | [1436-destination-city](https://github.com/ayankundu77/LEETCODE/tree/master/1436-destination-city) |
 | [1496-path-crossing](https://github.com/ayankundu77/LEETCODE/tree/master/1496-path-crossing) |
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/ayankundu77/LEETCODE/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
